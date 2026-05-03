@@ -22,7 +22,7 @@ In Foundry's setup screen:
 
 
 
-https://github.com/YOUR\_GITHUB\_NAME/lancer-auto-effects/releases/latest/download/module.json
+https://github.com/HetzenGN/Lancer-TTRPG-Full-Auto/releases/latest/download/module.json
 
 
 
