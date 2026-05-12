@@ -1,0 +1,41 @@
+{
+  "id": "lancer-ttrpg-full-auto",
+  "title": "Lancer-TTRPG-Full-Auto",
+  "description": "Quality-of-life automation for the Lancer system.",
+  "version": "0.1.32",
+  "authors": [
+    {
+      "name": "Hetzen"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "system": ["lancer"],
+  "socket": true,
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "url": "https://github.com/HetzenGN/Lancer-TTRPG-Full-Auto", 
+  "manifest": "https://github.com/HetzenGN/Lancer-TTRPG-Full-Auto/releases/latest/download/module.json",
+  "download": "https://github.com/HetzenGN/Lancer-TTRPG-Full-Auto/releases/download/v0.1.32/lancer-ttrpg-full-auto-v0.1.32.zip",
+  "readme": "https://github.com/HetzenGN/Lancer-TTRPG-Full-Auto/blob/main/README.md",
+  "bugs": "https://github.com/HetzenGN/Lancer-TTRPG-Full-Auto/issues",
+  "changelog": "https://github.com/HetzenGN/Lancer-TTRPG-Full-Auto/releases",
+  "license": "LICENSE",
+  "packs": [
+  {
+    "name": "lancer-ttrpg-full-auto-macros",
+    "label": "Lancer TTRPG Full Auto Macros",
+    "path": "packs/macros",
+    "type": "Macro",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "TRUSTED": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    }
+  }
+]
+}
