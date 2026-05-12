@@ -30,7 +30,7 @@ https://github.com/HetzenGN/Lancer-TTRPG-Full-Auto/releases/latest/download/modu
 
 5\. Open your Lancer world.
 
-6\. Go to \*\*Manage Modules\*\* and enable \*\*Lancer Auto Effects\*\*.
+6\. Go to \*\*Manage Modules\*\* and enable \*\*Lancer-TTRPG-Full_Auto\*\*.
 
 
 
