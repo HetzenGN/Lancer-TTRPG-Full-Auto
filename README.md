@@ -1,6 +1,6 @@
 # Lancer-TTRPG-Full-Auto
 
-A Foundry VTT v12 module for the Lancer system that adds quality-of-life automation.
+A Foundry VTT v13 module for the Lancer system that adds quality-of-life automation.
 
 ## Installation
 
@@ -18,5 +18,5 @@ https://github.com/HetzenGN/Lancer-TTRPG-Full-Auto/releases/latest/download/modu
 
 ## Compatibility
 
-- Foundry VTT: v12
-- Lancer system: v2.x / Foundry v12 line
+- Foundry VTT: v13
+- Lancer system: v3.x / Foundry v13 line
